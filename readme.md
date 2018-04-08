@@ -91,6 +91,10 @@ heroku config:set APP_ENV=development APP_DEBUG=true APP_LOG_LEVEL=debug
  git push heroku master
 ```
 
+Or click the button below to deploy to Heroku instantly.
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MythicAI/laravel-heroku)
+
 ---
 
 ## License
